@@ -64,3 +64,31 @@ After downloading, extract the contents of the ZIP file:
 
 ```bash
 unzip BengalDeltaFish.zip -d BengalDeltaFish
+```
+
+### 3. Load the Dataset Using sample.py
+
+Ensure you have the necessary dependencies installed (e.g., opencv-python, numpy).
+
+Run the provided sample.py script to load and visualize the dataset:
+
+```powershell
+python sample.py
+```
+
+This script demonstrates how to read images and corresponding annotations, facilitating model training and evaluation.
+
+---
+
+## 📄 Citation
+If you utilize the BengalDeltaFish dataset in your research, please cite it as follows:
+
+Md Shoaib Shahria Alif, Sabrina Alim Dipa, Arjun Pal, Md Delwar Shahadat Deepu (2025),
+"BengalDeltaFish: A Local Dataset for Fish Detection in Bangladeshi Markets",
+Mendeley Data, V4, https://doi.org/10.17632/ywfx54ktvn.4
+
+---
+
+## 📬 Contact
+For questions or collaborations, please contact the dataset contributors via the Mendeley Data page:
+https://data.mendeley.com/datasets/ywfx54ktvn/4
